@@ -61,7 +61,7 @@ async def help(ctx):
 
   await ctx.send(embed=embed)
 
-#command xàm 
+#command for fun 
 @client.command()
 async def hello(ctx):
   await ctx.send('Hello Im Deemo Bot')
